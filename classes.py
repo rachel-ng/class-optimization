@@ -75,7 +75,7 @@ def fulfillments(cl_ind, d, course_desc, excl):
     return fulfills, {i:(reqs[i]+["WI"] if (i in wi) else reqs[i]) for i in reqs}, wi
 
 
-def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w):
+def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w, pref):
     ok = {}
 
     if comp == ">=" or comp == None:
@@ -123,24 +123,44 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w):
     for i in alph: 
         l = i.split(" ")
         if int(l[1][0]) < int(hardness): 
-            num += 1
-            c = ""
-            l = "\n"
-            alt_name_1 = i[:-2] + "00"
-            alt_name_2 = i[:-2] + "XX"
-            if course_desc.get(i):
-                c += " - " + course_desc.get(i)[0]
-                l += course_desc.get(i)[1] + "\n"
-            elif i != alt_name_1 and course_desc.get(alt_name_1):
-                c += " (" + alt_name_1 + ") - " + course_desc.get(alt_name_1)[0]
-                l += course_desc.get(alt_name_1)[1] + "\n"
-            elif i != alt_name_2 and course_desc.get(alt_name_2):
-                c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
-                l += course_desc.get(alt_name_2)[1] + "\n"
+            if pref != "" and pref in good[i]: 
+                num += 1
+                c = ""
+                l = "\n"
+                alt_name_1 = i[:-2] + "00"
+                alt_name_2 = i[:-2] + "XX"
+                if course_desc.get(i):
+                    c += " - " + course_desc.get(i)[0]
+                    l += course_desc.get(i)[1] + "\n"
+                elif i != alt_name_1 and course_desc.get(alt_name_1):
+                    c += " (" + alt_name_1 + ") - " + course_desc.get(alt_name_1)[0]
+                    l += course_desc.get(alt_name_1)[1] + "\n"
+                elif i != alt_name_2 and course_desc.get(alt_name_2):
+                    c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
+                    l += course_desc.get(alt_name_2)[1] + "\n"
 
-            if (course_desc.get(i)):
-                bb += i + c + "\t" + str(good[i]) + l + "\n" 
-                print(i + c + "\t" + str(good[i]) + l)
+                if (course_desc.get(i)):
+                    bb += i + c + "\t" + str(good[i]) + l + "\n" 
+                    print(i + c + "\t" + str(good[i]) + l)
+            elif pref == "": 
+                num += 1
+                c = ""
+                l = "\n"
+                alt_name_1 = i[:-2] + "00"
+                alt_name_2 = i[:-2] + "XX"
+                if course_desc.get(i):
+                    c += " - " + course_desc.get(i)[0]
+                    l += course_desc.get(i)[1] + "\n"
+                elif i != alt_name_1 and course_desc.get(alt_name_1):
+                    c += " (" + alt_name_1 + ") - " + course_desc.get(alt_name_1)[0]
+                    l += course_desc.get(alt_name_1)[1] + "\n"
+                elif i != alt_name_2 and course_desc.get(alt_name_2):
+                    c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
+                    l += course_desc.get(alt_name_2)[1] + "\n"
+
+                if (course_desc.get(i)):
+                    bb += i + c + "\t" + str(good[i]) + l + "\n" 
+                    print(i + c + "\t" + str(good[i]) + l)
     print("{} classes found".format(num))
     f = open("output/" + out, "w")
     f.write(bb)
@@ -164,6 +184,9 @@ def parse ():
     parser.add_argument('--wi', choices=["y","Y","n","N",[]],
         help='writing intensive classes, default shows all classes'
     )
+    parser.add_argument('-p','--pref', default="",
+        help='preferred requirement, default = "'
+    )
     return parser.parse_args()
 
 if __name__ == "__main__":
@@ -173,6 +196,6 @@ if __name__ == "__main__":
     ci, dct = courses_fulfill()
     excl = courses_exclude()
     fulfills, reqs, wi = fulfillments(ci, dct, desc, excl)
-    seek(fulfills, reqs, wi, desc, int(args.fulfill), int(args.level), args.output, args.c, args.wi)
+    seek(fulfills, reqs, wi, desc, int(args.fulfill), int(args.level), args.output, args.c, args.wi, args.pref)
 
 
