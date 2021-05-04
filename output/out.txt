@@ -1,194 +1,167 @@
-python classes.py 1 2 out.txt == 
+python classes.py 2 3 out.txt None None
 
-AFPRL 10000 - Introduction to Black Politics	['plurdiv_b']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107860
+AFPRL 20100 - African History from Human Origins to 1600 CE	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124373
 
-AFPRL 10100 - Introduction to Africana Studies	['plurdiv_b', 'plurdiv_a']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107861
+African history from ancient times with emphasis on endogenous African development of civilizations and complex economic, technological and cultural systems over time.
 
-AFPRL 10200 - Latino Communities in the United States	['plurdiv_b']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107862
+AFPRL 20200 - African History Since 1600 CE	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124374
 
-AFPRL 10300 - Conquest and Resistance: Puerto Rican Experiences in Comparative Perspective	['plurdiv_b']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107863
+Main currents of African history from 1600 CE to present
 
-AFPRL 14100 - Puerto Rican Folklore	['plurdiv_b', 'plurdiv_a']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107864
+AFPRL 20900 - Introduction to Caribbean History to 1900	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124381
 
-AFPRL 14300 - The Image of the Puerto Rican National Identity in Its Literature	['plurdiv_a']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107865
+Introduction to the major themes in Caribbean history to 1900.
 
-AFPRL 18200 - Culture and Ethnic Identity	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107867
+AFPRL 21000 - Introduction to Caribbean History: 1900 - Present	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124382
 
-ANTHC 10000 - Cultural Diversity in the United States: Historical and Ethnographic Perspectives (W)	['fcc_us', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110249
+Introduction to the major themes in Caribbean history after 1900.
 
-ANTHC 10100 - Introduction to Cultural Anthropology	['plurdiv_a']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107938
+AFPRL 22200 - African Civilization	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124385
 
-ANTHC 12600 - Introduction to Prehistoric Archaeology	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107939
+Introduction to study of African civilization.
 
-ANTHC 15100 - Introduction to Linguistics	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107941
+AFPRL 24300 - Puerto Rican Culture	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124392
 
-ANTHP 10100 - Human Evolution	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107991
+General study of Puerto Rican culture and ethnic mixtures that went into making of that culture.
 
-ANTHP 10200 - Human Variation	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107992
+ARB 15000 - Introduction to Modern Arab Cultures	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126869
 
-ANTHP 10500 - The Human Species	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=107993
+This course will explore the diversity of cultures in the modern Arab World. By “culture” we mean the practices of everyday life as well works of culture such as novels, poetry, plays, music, movies, television shows and other cultural texts. We will view culture through a variety of prisms such as language, geography, history and gender.
 
-ARTH 11100 - Introduction to History of Art	['fcc_ind']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108040
+ARB 25200 - Literatures from the Islamic World (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124517
 
-ASTRO 10200 - Laboratory Explorations in Astronomy	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110129
+A survey of literary genres and themes from the Islamic World from the 7th to the 15th century.
 
-BIOL 10000 - Principles of Biology I	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108139
+ARB 25300 - Literatures and Cultures of Muslim Spain (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124518
 
-BIOL 10200 - Principles of Biology II	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108140
+A survey of the literary and cultural history of Muslim Spain, 8th - 15th century C.E.
 
-BIOL 10500 - Introduction to Genome Biology	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110126
+ARB 25500 - Modern Palestinian Culture	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126736
 
-BIOL 10700 - The Human Barcode: Biology and Genetics of Personal Identification	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110262
+War and trauma shape modern Palestinian identities as evident in narratives of diaspora and return, nationalism, and militarism. This class introduces and explores the intersections of Palestinian national aspirations and Palestinian fiction, poetry, and film. There will be a focus on geography, as land and borders play a central role in the conflict. In addition, the class will include discussion of the following topics: Jerusalem; the Green Line; colonialism; 1948; 1967; refugees, diaspora and return; nationalism; resistance; and violence and militarism.
 
-BIOL 12500 - Human Biology	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108143
+ARB 25600 - Modern Arab Theatre	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126737
 
-BIOL 15000 - CSI:  HUNTER (Forensic Biology)	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108144
+Welcoming students of any major or background, this course opens an angle on to culture and society in the Arab world through the lens of drama and theatre. Some themes covered: prison, political critique, heritage, and women/gender.
 
-CHEM 10000 - Essentials of General Chemistry Lecture	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108179
+ARB 25700 - Language and Culture in Contemporary North Africa	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126863
 
-CHEM 10100 - Inquiries into the Nature of Matter	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108180
+North Africa (Maghreb) is often described as a crossroads of many cultures - Arab, Berber, African, European, and others. Over the course of this semester, we will discuss important issues facing this region, including democratic reform efforts both before and following the Arab spring, Berber language movements and other language debates, colonial and post-colonial struggles, and social and cultural debates surrounding gender and religion. Through readings of key literary, historical, political, and cultural texts, as well as viewing important documentary and fictional film productions, we will examine this fascinating region from multiple vantage points.
 
-CHEM 10200 - General Chemistry I	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108181
+CHIN 11100 - Chinese Culture I	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124725
 
-CHEM 10300 - General Chemistry Laboratory I	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108182
+Introduction to Chinese culture with emphasis on classical tradition. Lectures and readings in English.
 
-CHEM 10400 - General Chemistry II	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108183
+CHIN 11200 - Chinese Culture II	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124726
 
-CHEM 10600 - General Chemistry Laboratory	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108185
+Emphasis on modern transformation against background of classical tradition. Lectures and readings in English.
 
-CHEM 11100 - Chemical Principles	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108186
+HEBR 22100 - Modern Israeli Culture	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125332
 
-CHEM 11200 - Thermodynamics and Solution Chemistry	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108187
+A survey of contemporary Israeli culture, exploring topisc relating to language, literature, history, rituals, politics, music and education.
 
-CLA 10100 - Classical Mythology	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108237
+HEBR 22200 - Introduction to Jewish Texts and Writings	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125333
 
-CLA 11000 - The Greek and Latin Roots of English	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108239
+A broad survey of influential Jewish texts and literary masterpieces from ancient to modern times.
 
-ENGL 12000 - Expository Writing	['rc_eng_comp']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108446
+HEBR 24000 - Introduction to the Old Testament	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125334
 
-GEOG 15000 - World Regional Geography	['plurdiv_a']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108658
+Survey of the books of the Old Testament, their form, content and cultural background. Introduction to the tools and methods of modern biblical criticism.
 
-GEOL 10100 - Introductory Geology Lab	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110130
+HEBR 25900 - Old Testament Religion	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125336
 
-HEBR 10100 - Elementary Hebrew I	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108811
+Comprehensive survey of ancient Israelite religious practice, expression and thought as reflected in Hebrew Bible.
 
-HEBR 10500 - Elementary Biblical Hebrew I	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108814
+HEBR 29000 - Biblical Archaeology	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125345
 
-HIST 11200 - World History from 1500 to the Present	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108879
+Study of Biblical sources in translation in relation to major archaeological discoveries in Israel and Near East.
 
-HIST 12100 - Early Modern Europe 1500 to 1815	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108880
+HEBR 29200 - The Hebrew Prophets	['fcc_ind', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125347
 
-HIST 12200 - 19th and 20th Century Europe (W)	['fcc_world', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108881
+Study of phenomenon of prophecy in ancient Israel and its contribution to historical, ethical and religious thought.
 
-HIST 15100 - The United States from the Colonial Era to the Civil War (W)	['fcc_us', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108882
+HEBR 29500 - Ancient Hebrew Law	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125352
 
-HIST 15200 - The United States from the Civil War Era to the Present (W)	['fcc_us', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=108883
+Historical and comparative study of Biblical and rabbinic law.
 
-MEDIA 18000 - MEDIA 18000	['fcc_ind']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109122
+HIST 11100 - World History to 1500	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125383
 
-MUSHL 10700 - The World of Music	['plurdiv_a']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109228
+The rise of civilizations; technological and intellectual breakthroughs; classical cultures and empires; interregional connections; the spread of civilization across the globe.
 
-PGEOG 13000 - Weather and Climate	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109360
+HIST 20800 - History of the Jews	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125390
 
-PHILO 10100 - Introduction to Philosophy	['fcc_ind']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109380
+An introductory survey emphasizing how Jewish communities adapted to a wide range of environments during more than 3000 years of world history.
 
-PHILO 10400 - Introduction to Ethics and Moral Judgment	['fcc_ind']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109382
+HIST 27700 - East Asia to 1600 (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125399
 
-PHYS 10100 - Basic Concepts of Physics with Laboratory Exercises	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109455
+Survey of traditional cultures and sociopolitical structures of China, Japan, Korea and Vietnam to about 1600 AD.
 
-PHYS 11000 - General Physics: Introductory Course in Mechanics, Heat, and Sound	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109456
+HIST 27800 - East Asia, 1600 to the Present (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125400
 
-PHYS 11100 - General Physics: Introductory Course in Mechanics, Heat, and Sound	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109457
+Coming of West to Asia and resulting processes of revolution and modernization after 1600 AD.
 
-PHYS 12000 - General Physics: Introductory Course in Electricity and Magnetism, Light, and Atomic Physics	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109458
+PHILO 21900 - Chinese Philosophy (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125897
 
-PHYS 12100 - General Physics: Introductory Course in Electricity and Magnetism, Light, and Atomic Physics	['rc_sci']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109459
+Readings from the classics of Chinese philosophy found in Confucian, Taoist and Buddhist traditions.
 
-POLSC 10000 - Introduction to Politics: Democracy, Anarchy and the State (W)	['fcc_world', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109507
+REL 25100 - Asian Religions (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126196
 
-POLSC 11000 - American Government: A Historical Introduction (W)	['fcc_us', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109508
+Study of Hinduism, Buddhism, Jainism, Taoism and Confucianism.
 
-POLSC 11500 - Introduction to International Politics (W)	['fcc_world', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=124239
+REL 25200 - Ancient Near Eastern Religions (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126197
 
-PSYCH 17000 - Psychology of Human Sexuality	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109620
+Study of Egyptian religion, religions of Sumer and Babylonia, religion of the early Hebrews (including the Old Testament).
 
-PSYCH 19000 - Development of Gender Roles	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109622
+REL 25400 - Tribal Religions: From Australia to the Americas (W)	['fcc_world', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126199
 
-REL 11000 - Nature of Religion (W)	['fcc_ind', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109684
+Study of indigenous religions of Pacific Islanders and North American Indians.
 
-REL 11100 - Approaches to Religion (W)	['fcc_ind', 'WI']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109685
+REL 25500 - Religions of Two Gods (W)	['fcc_ind', 'plurdiv_a', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126200
 
-RUSS 15700 - The Age of the Great Masters	['fcc_world']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109740
+A survey of historical varieties of dualistic religion both classical and modern which inquires into the moral grounds for their recurring appeal.
 
-RUSS 15800 - Contemporary Russian Culture	['fcc_ind']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=109741
+RUSS 15600 - Culture of Imperial Russia: the Age of Empresses	['fcc_ind', 'plurdiv_c']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126242
 
-WGS 10000 - Introduction to Gender and Sexuality Studies	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110052
+Major cultural movements of the Empire baroque, classicism, romanticism and their effect on the cultural fabric of Russia from Regent Sophia through the reign of Peter to Catherine the Great.
 
-WGS 12100 - Public Speaking in Gender Studies	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110293
+RUSS 26000 - Russian Women Writers in English Translation (W)	['fcc_ind', 'plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126260
 
-WGSS 15000 - Introduction to LGBTQI Studies	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=39&coid=110094
+The contributions of Russian women writers to Russian literature of the 19th and 20th centuries: A. Akhmatova, M. Tsvetaeva, A. Kollontai, N. Mandel’shtam, E. Ginsburg, L. Petrushevskaia and others.
+
+RUSS 29300 - Folklore in Translation: A Comparative Study	['fcc_world', 'plurdiv_a']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126262
+
+Folklore of Australia, Oceania, Europe, Africa, North and South America and the Near East will be read in juxtaposition to Russian folklore.
 
