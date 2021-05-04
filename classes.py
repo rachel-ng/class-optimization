@@ -174,6 +174,7 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w, pref):
                     c += " - " + cdct['name']
                     l += cdct['link'] + "\n\n" 
                     l += cdct['description'] + "\n"
+                    #l += "{}\n\n{}\n".format(cdct['link'],cdct['description'])
                 elif i != alt_name_1 and course_desc.get(alt_name_1):
                     cdct = course_desc.get(alt_name_1)
                     c += " (" + alt_name_1 + ") - " + cdct['name']
