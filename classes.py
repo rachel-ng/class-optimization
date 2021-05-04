@@ -2,6 +2,8 @@
 
 import sys, os, copy
 import argparse
+import json
+
 
 #print(os.listdir('.'))
 
@@ -13,6 +15,13 @@ def descriptions():
     course_desc = {i[0].split("(")[0].strip():[i[-2].strip(), "http://catalog.hunter.cuny.edu/" + i[-1]] for i in course_raw}
     fin.close()
     return course_desc
+
+
+def descriptions_json():
+    with open(os.getcwd() + "/data/" + "courses.json") as json_file:
+        data = json.load(json_file)
+    json_file.close()
+    return data 
 
 
 def courses_fulfill():
@@ -65,7 +74,7 @@ def fulfillments(cl_ind, d, course_desc, excl):
                 reqs[n].append(i)
                 reqs_real[n].add(i.split('plurdiv_')[0])
             if course_desc.get(n):
-                if len(course_desc.get(n)[0].split("(W)")) > 1:
+                if len(course_desc.get(n)['name'].split("(W)")) > 1:
                     wi.add(n)
             fulfills[n] = len(reqs_real[n])
                 # find the number of classes the fulfill X requirements
@@ -130,18 +139,30 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w, pref):
                 alt_name_1 = i[:-2] + "00"
                 alt_name_2 = i[:-2] + "XX"
                 if course_desc.get(i):
-                    c += " - " + course_desc.get(i)[0]
-                    l += course_desc.get(i)[1] + "\n"
+                    cdct = course_desc.get(i)
+                    c += " - " + cdct['name']
+                    l += cdct['link'] + "\n\n" 
+                    l += cdct['description'] + "\n"
+                    #l += str(cdct['fulfills']) + "\n\n"
+                    #l += str(cdct) + "\n"
                 elif i != alt_name_1 and course_desc.get(alt_name_1):
-                    c += " (" + alt_name_1 + ") - " + course_desc.get(alt_name_1)[0]
-                    l += course_desc.get(alt_name_1)[1] + "\n"
+                    cdct = course_desc.get(alt_name_1)
+                    c += " (" + alt_name_1 + ") - " + cdct['name']
+                    l += cdct['link'] + "\n\n" 
+                    l += cdct['description'] + "\n"
                 elif i != alt_name_2 and course_desc.get(alt_name_2):
-                    c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
-                    l += course_desc.get(alt_name_2)[1] + "\n"
+                    cdct = course_desc.get(alt_name_2)
+                    c += " (" + alt_name_2 + ") - " + cdct['name']
+                    l += cdct['link'] + "\n\n" 
+                    l += cdct['description'] + "\n"
 
                 if (course_desc.get(i)):
                     bb += i + c + "\t" + str(good[i]) + l + "\n" 
-                    print(i + c + "\t" + str(good[i]) + l)
+                    print(i + c + "\t" + str(good[i]) + l + "\n")
+                else:
+                    bb += i + "\nunable to find more info\n" 
+                    print(i + "\nunable to find more info\n") 
+
             elif pref == "": 
                 num += 1
                 c = ""
@@ -149,21 +170,31 @@ def seek(fulfills, reqs, wi, course_desc, n, hardness, out, comp, w, pref):
                 alt_name_1 = i[:-2] + "00"
                 alt_name_2 = i[:-2] + "XX"
                 if course_desc.get(i):
-                    c += " - " + course_desc.get(i)[0]
-                    l += course_desc.get(i)[1] + "\n"
+                    cdct = course_desc.get(i)
+                    c += " - " + cdct['name']
+                    l += cdct['link'] + "\n\n" 
+                    l += cdct['description'] + "\n"
                 elif i != alt_name_1 and course_desc.get(alt_name_1):
-                    c += " (" + alt_name_1 + ") - " + course_desc.get(alt_name_1)[0]
-                    l += course_desc.get(alt_name_1)[1] + "\n"
+                    cdct = course_desc.get(alt_name_1)
+                    c += " (" + alt_name_1 + ") - " + cdct['name']
+                    l += cdct['link'] + "\n\n" 
+                    l += cdct['description'] + "\n"
                 elif i != alt_name_2 and course_desc.get(alt_name_2):
-                    c += " (" + alt_name_2 + ") - " + course_desc.get(alt_name_2)[0]
-                    l += course_desc.get(alt_name_2)[1] + "\n"
+                    cdct = course_desc.get(alt_name_2)
+                    c += " (" + alt_name_2 + ") - " + cdct['name']
+                    l += cdct['link'] + "\n\n" 
+                    l += cdct['description'] + "\n"
 
                 if (course_desc.get(i)):
                     bb += i + c + "\t" + str(good[i]) + l + "\n" 
-                    print(i + c + "\t" + str(good[i]) + l)
+                    print(i + c + "\t" + str(good[i]) + l + "\n")
+                else:
+                    bb += i + "\nunable to find more info\n" 
+                    print(i + "\nunable to find more info\n") 
+
     print("{} classes found".format(num))
     f = open("output/" + out, "w")
-    f.write(bb)
+    f.write(bb.encode("utf-8"))
     f.close()
 
 
@@ -185,14 +216,15 @@ def parse ():
         help='writing intensive classes, default shows all classes'
     )
     parser.add_argument('-p','--pref', default="",
-        help='preferred requirement, default = "'
+        help='preferred requirement, default = ""'
     )
     return parser.parse_args()
 
 if __name__ == "__main__":
     args = parse()
     print(args)
-    desc = descriptions()
+    #desc = descriptions()
+    desc = descriptions_json()
     ci, dct = courses_fulfill()
     excl = courses_exclude()
     fulfills, reqs, wi = fulfillments(ci, dct, desc, excl)
