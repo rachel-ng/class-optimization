@@ -1,9 +1,14 @@
-python classes.py 1 3 out.txt None n
+python classes.py 1 3 out.txt None None
 
 ASIAN 22001 - Asian American Women Writers	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124611
 
 Critical examination of Asian  American women’s identity formations in relation to factors such as  racial ideology, global migrations of labor and capital, class status,  sexuality, military conflict, constructions of family, and language.
+
+ASIAN 22005 - South Asian Women’s Literature (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124613
+
+Close examination of literary, historical, and theoretical texts with a focus on the cultural production and social movements of South Asian women, with particular attention to how issues of race and nationalism are shaped and how they have overlapped with gender, class, sexuality, religion, and language.
 
 FILM 21500 - Women and Film	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125064
@@ -20,6 +25,11 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125133
 
 The representation of women in literary texts from the Middle Ages to the present. Conducted in English. Readings in English translation.
 
+GEOG 24100 - Population Geography (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125170
+
+Course will explore several critical issues such as the relationship between population growth and development; immigration and internal migration; how age, race and gender affect other demographic processes; and how and why these processes vary around the world. Additionally, students will examine the “mechanics” of computing population growth and change as well as different ways to visually display measures of population. Offered fall and spring.
+
 HEBR 28400 - Images of Women in the Old Testament, in Translation	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125340
 
@@ -29,6 +39,41 @@ MEDIA 29853 - The Horror Film	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125634
 
 A historically informed exploration of the international horror film genre in cultural context. Includes a consideration of filmic conventions, marketing practices, and audience reception.  We will explore cultural fears, and how art and industry manage to express and profit from those fears.
+
+MUSHL 25000 - Women and Music (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125747
+
+An ethnomusicological study of women and music in cross-cultural perspective.
+
+PHILO 23000 - Feminist Philosophy (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125904
+
+Survey of major ideas in feminist philosophy and their practical implications.
+
+POLSC 20900 - Women and Gender in Western Political Thought (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126023
+
+Examines history of political thought from the perspective of gender relations and the treatment of women.
+
+POLSC 21800 - Women and Politics (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126029
+
+Constitutional and legal position of women, ERA, affirmative action, marriage, divorce, property, feminist causes.
+
+POLSC 21900 - Women and the Law (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126030
+
+Overview of how local, state and federal laws treat people on the basis of sex.
+
+POLSC 22800 - Protest Movements in American Politics (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126035
+
+Analysis of historical and contemporary protest movements in  the context of American politics; includes key concepts and explanatory factors  in social movement theory, and movements such as the anti-slavery, women’s  suffrage, labor, civil-rights, anti-war, feminist, environmental, gay-rights,  pro-choice, pro-life, and Patriot movements.
+
+POLSC 28000 - Women, War and Peace (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126068
+
+The course examines the roles that women have played as subjects and objects in war and peace.
 
 PSYCH 17000 - Psychology of Human Sexuality	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126123
@@ -50,6 +95,11 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126242
 
 Major cultural movements of the Empire baroque, classicism, romanticism and their effect on the cultural fabric of Russia from Regent Sophia through the reign of Peter to Catherine the Great.
 
+RUSS 26000 - Russian Women Writers in English Translation (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126260
+
+The contributions of Russian women writers to Russian literature of the 19th and 20th centuries: A. Akhmatova, M. Tsvetaeva, A. Kollontai, N. Mandel’shtam, E. Ginsburg, L. Petrushevskaia and others.
+
 SOC 20100 - The Family	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126321
 
@@ -60,6 +110,11 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126344
 
 Sex role differentiation: femininity, masculinity, marriage, child rearing.
 
+SPAN 26900 - Spanish American Women’s Literature and Cinema (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126411
+
+Taught in English. This course is designed for students who want to become acquainted with Spanish culture. Cannot be credited toward the major and are not recommended for the minor.
+
 WGS 10000 - Introduction to Gender and Sexuality Studies	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126555
 
@@ -69,6 +124,11 @@ WGS 12100 - Public Speaking in Gender Studies	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126796
 
 This course is designed to cultivate and improve students’ public speaking skills, for use in the classroom and in broader public spheres. To do so, we will engage with materials in critical identity studies (primarily on class, race, gender, and sexuality), which generate complex debates and afford fruitful opportunities to refine oratory skills. 
+
+WGS 20100 - Classics in Feminist Thought (W)	['plurdiv_c', 'WI']
+http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126557
+
+The course covers the historical debates within the ‘women’s movement’ in the United States by examining some of the ‘classical’ texts by Mary Wollstonecraft, John Adams, and Sojourner Truth. The course also covers the political and intellectual contribution by women of color to the discipline by reading Gloria Anzuldua, bell hooks, Audre Lorde, Patricia Williams, Kimberley Crenshaw among others. ’Foundational’ texts by Gayle Rubin, Judith Butler, and Adrienne Rich offer a deeper understanding of queer theory’s influence to the discipline. Even as the course reads ‘classic’ texts of the discipline, we will critically examine the formation of a cannon.
 
 WGS 21600 - Women Philosophers of the Past	['plurdiv_c']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126559
