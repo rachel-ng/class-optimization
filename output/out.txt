@@ -1,44 +1,14 @@
-python classes.py 1 3 out.txt None None
-
-ASIAN 22001 - Asian American Women Writers	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124611
-
-Critical examination of Asian  American women’s identity formations in relation to factors such as  racial ideology, global migrations of labor and capital, class status,  sexuality, military conflict, constructions of family, and language.
+python classes.py 1 3 out.txt None y
 
 ASIAN 22005 - South Asian Women’s Literature (W)	['plurdiv_c', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=124613
 
 Close examination of literary, historical, and theoretical texts with a focus on the cultural production and social movements of South Asian women, with particular attention to how issues of race and nationalism are shaped and how they have overlapped with gender, class, sexuality, religion, and language.
 
-FILM 21500 - Women and Film	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125064
-
-Films by women directors and the ways women’s films counter the dominant patriarchal view of women reflected in commercial cinema.
-
-FILM 22252 - Topics in Genre Studies: “The Woman’s Film” of the 1940s	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125066
-
-This course focuses on “the woman’s film”, from the forties. Discussion of the woman’s film, an umbrella term for a series of genres (melodrama, gothic film, comedies) in which the woman is the main protagonist as well as the intended spectator.
-
-FREN 26200 - Perspectives on Women in French Literature	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125133
-
-The representation of women in literary texts from the Middle Ages to the present. Conducted in English. Readings in English translation.
-
 GEOG 24100 - Population Geography (W)	['plurdiv_c', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125170
 
 Course will explore several critical issues such as the relationship between population growth and development; immigration and internal migration; how age, race and gender affect other demographic processes; and how and why these processes vary around the world. Additionally, students will examine the “mechanics” of computing population growth and change as well as different ways to visually display measures of population. Offered fall and spring.
-
-HEBR 28400 - Images of Women in the Old Testament, in Translation	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125340
-
-Depiction of women in ancient Israelite prose and poetry. Close reading and analysis of texts in terms of literary techniques, cultural background and ideological implications.
-
-MEDIA 29853 - The Horror Film	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125634
-
-A historically informed exploration of the international horror film genre in cultural context. Includes a consideration of filmic conventions, marketing practices, and audience reception.  We will explore cultural fears, and how art and industry manage to express and profit from those fears.
 
 MUSHL 25000 - Women and Music (W)	['plurdiv_c', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=125747
@@ -75,78 +45,18 @@ http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126068
 
 The course examines the roles that women have played as subjects and objects in war and peace.
 
-PSYCH 17000 - Psychology of Human Sexuality	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126123
-
-Psychological foundations, sexual development and response patterns; male and female roles; individual and social attitudes, legal issues.
-
-PSYCH 19000 - Development of Gender Roles	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126125
-
-Social, cognitive, hormonal and personality factors in development of gender roles; determinants of behavioral and cognitive gender differences.
-
-PSYCH 23500 - The Psychology of Women	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126137
-
-Psychological functioning of women; sexuality, pregnancy, social roles and status, aging, achievement, life styles, power.
-
-RUSS 15600 - Culture of Imperial Russia: the Age of Empresses	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126242
-
-Major cultural movements of the Empire baroque, classicism, romanticism and their effect on the cultural fabric of Russia from Regent Sophia through the reign of Peter to Catherine the Great.
-
 RUSS 26000 - Russian Women Writers in English Translation (W)	['plurdiv_c', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126260
 
 The contributions of Russian women writers to Russian literature of the 19th and 20th centuries: A. Akhmatova, M. Tsvetaeva, A. Kollontai, N. Mandel’shtam, E. Ginsburg, L. Petrushevskaia and others.
-
-SOC 20100 - The Family	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126321
-
-Family functions and interaction. Factors affecting stability and instability.
-
-SOC 25700 - Sex and Gender Roles	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126344
-
-Sex role differentiation: femininity, masculinity, marriage, child rearing.
 
 SPAN 26900 - Spanish American Women’s Literature and Cinema (W)	['plurdiv_c', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126411
 
 Taught in English. This course is designed for students who want to become acquainted with Spanish culture. Cannot be credited toward the major and are not recommended for the minor.
 
-WGS 10000 - Introduction to Gender and Sexuality Studies	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126555
-
-The course will introduce students to the political and theoretical debates in the discipline of gender and sexuality. We will cover historical struggles for the women’s enfranchisement, the abolitionist movements, sex wars, and the queer rights movement. The course introduces students to feminist contribution to the debate that considers sex as biology and gender as culture, critical race theory, and queer theory. In addition the course will also deal with structural and institutional forms of disenfranchisement by examining the relationship between gender and the state, colonialism, law and capital.
-
-WGS 12100 - Public Speaking in Gender Studies	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126796
-
-This course is designed to cultivate and improve students’ public speaking skills, for use in the classroom and in broader public spheres. To do so, we will engage with materials in critical identity studies (primarily on class, race, gender, and sexuality), which generate complex debates and afford fruitful opportunities to refine oratory skills. 
-
 WGS 20100 - Classics in Feminist Thought (W)	['plurdiv_c', 'WI']
 http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126557
 
 The course covers the historical debates within the ‘women’s movement’ in the United States by examining some of the ‘classical’ texts by Mary Wollstonecraft, John Adams, and Sojourner Truth. The course also covers the political and intellectual contribution by women of color to the discipline by reading Gloria Anzuldua, bell hooks, Audre Lorde, Patricia Williams, Kimberley Crenshaw among others. ’Foundational’ texts by Gayle Rubin, Judith Butler, and Adrienne Rich offer a deeper understanding of queer theory’s influence to the discipline. Even as the course reads ‘classic’ texts of the discipline, we will critically examine the formation of a cannon.
-
-WGS 21600 - Women Philosophers of the Past	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126559
-
-Study of the writings and ideas of selected women philosophers who lived before the contemporary feminist movement.
-
-WGS 24400 - Transnational Feminisms	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126561
-
-Exploring the gender dynamics of racial, ethnic, and economic relations of power in domestic, international, and transnational settings. We will examine feminist scholarship produced by and about American women of color, Third World women, and other social and political actors whose experiences and thinking have shaped contemporary ideas about gender in different parts of the world.
-
-WGSS 15000 - Introduction to LGBTQI Studies	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126597
-
-Psychological foundations, sexual development and response patterns; male and female roles; individual and social attitudes, legal issues.
-
-WGSS 29300 - Bathroom Politics	['plurdiv_c']
-http://catalog.hunter.cuny.edu/preview_course_nopop.php?catoid=43&coid=126797
-
-In this course, we will study bathrooms in relation to a body of state policies mandating segregated public facilities and spaces, primarily around sex and race. We will examine the anxiety, fear of contamination, and threat of violence in such spaces as it is translated into public policy through regulations including municipal building codes, civil rights legislation, and court cases. 
 
